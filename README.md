@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SANKET2111
-- 👀 I’m interested in drawing art.
+- 👀 I’m interested in drawing & gamedev.
 - 🌱 I’m currently learning game developement.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
