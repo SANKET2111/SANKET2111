@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SANKET2111
-- 👀 I’m interested in drawing & gamedev.
-- 🌱 I’m currently learning game developement.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in game developement.
+- 🌱 I’m currently making car racing game.
+- 💞️ I’m looking For people who are interested in game developement.
+- 📫 How to reach me gamil-sschoughle2001@gmail.com
 
 <!---
 SANKET2111/SANKET2111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
