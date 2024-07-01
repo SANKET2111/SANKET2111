@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sanket Chougule
-- 👀 I’m interested in game developement.
-- 🌱 I’m currently making car racing game.
+- 👋 Hi, I’m Sanket Chougule.
+- 👀 I’m a game developer. I usually use Godot.
+- 🌱 I’m currently learning VULKAN API.
 - 💞️ I’m looking For people who are interested in game developement.
 - 📫 How to reach me https://discord.gg/qAyrBFqRwt
 
